@@ -11,3 +11,5 @@ git push <remote-name> <remote-branch-name>
 * Vladimir
 
 * Grace
+
+* kass wrote this x2
