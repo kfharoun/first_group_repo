@@ -4,3 +4,4 @@ git checkout -b your-branch-name
 
 * Kass wrote this
 
+* Vladimir
