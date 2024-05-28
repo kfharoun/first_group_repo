@@ -8,3 +8,4 @@ git push <remote-name> <remote-branch-name>
 
 * Kass wrote this
 
+* Vladimir
